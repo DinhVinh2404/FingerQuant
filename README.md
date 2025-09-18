@@ -4,11 +4,7 @@
 </div>
 
 ## Abstract
-According to current statistics, smartphones have become widespread, and almost all of them integrate a touchscreen as the primary interface for direct interaction.  
-Although the concept of direct touch seems natural to users, the vocabulary of touch input is limited compared to traditional hardware devices such as keyboards and mice.  
-If different finger inputs on the display can be distinguished, then the same input performed with different fingers could trigger different functions—similar to using multiple buttons on a computer mouse or keyboard.  
-
-The goal of this project is to optimize the size of a simple finger classification model so that it can be easily deployed on devices without consuming too many resources.
+According to current statistics, smartphones have become widespread, and almost all of them integrate a touchscreen as the primary interface for direct interaction. Although the concept of direct touch seems natural to users, the vocabulary of touch input is limited compared to traditional hardware devices such as keyboards and mice. If different finger inputs on the display can be distinguished, then the same input performed with different fingers could trigger different functions—similar to using multiple buttons on a computer mouse or keyboard. The goal of this project is to optimize the size of a simple finger classification model so that it can be easily deployed on devices without consuming too many resources.
 
 
 ## Usage
