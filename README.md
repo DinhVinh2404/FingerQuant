@@ -1,6 +1,6 @@
 <div align="center">
 <h2>FingerQuant</h2>
-<h4>Research on a Quantization Method to Optimize a Deep Learning Model for Finger Recognition</h4>
+<h4>Research on a Quantization Method to Optimize Deep Learning Models for Finger Recognition</h4>
 </div>
 
 ## Abstract
