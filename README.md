@@ -9,7 +9,7 @@ According to current statistics, smartphones have become widespread, and almost 
 <p align="center">
     <img src="images/demo.png" alt="Classiffier" width="500">
     <br>
-    Finger Classiffier.
+    Figure 1. Finger Classiffier.
 </p>
 
 ## USAGE
@@ -19,23 +19,23 @@ The model takes as input capacitive touchscreen data, which has been preprocesse
 <p align="center">
     <img src="images/modelLVH_color.png" alt="Model 2" width="800">
     <br>
-    CapFingerId.
+    Figure 2. CapFingerId.
 </p>
 <p align="center">
     <img src="images/model1_color.png" alt="Model 1" width="500">
     <br>
-    Model 1.
+    Figure 3. Model 1.
 </p>
 <p align="center">
     <img src="images/model2_color.png" alt="Model 2" width="500">
     <br>
-    Model 2.
+    Figure 4. Model 2.
 </p>
 
 <p align="center">
     <img src="images/Input_data.png" alt="Input" width="200">
     <br>
-    Input_data.
+    Figure 5. Input data.
 </p>
 
 ### 2. INSTALLATION
@@ -56,7 +56,7 @@ The quantization process is divided into two stages.
 <p align="center">
     <img src="images/Phase1.png" alt="Phase1" width="350">
     <br>
-    Phase 1.
+    Figure 6. Phase 1.
 </p>
 
   - In this stage, the minimum and maximum values of each layer (corresponding to the input tensor) are determined based on the tensor’s value distribution (for example, whether it contains only positive values, only negative values, or both).
@@ -72,7 +72,7 @@ This stage consists of two steps:
 <p align="center">
     <img src="images/Phase2.png" alt="Phase2" width="900">
     <br>
-    Phase 2.
+    Figure 7. Phase 2.
 </p>
 
 **Step 1: Input Distribution Correction**
